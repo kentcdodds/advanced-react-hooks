@@ -269,6 +269,7 @@ Thanks goes to these wonderful people
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LorisYanis"><img src="https://avatars.githubusercontent.com/u/115280526?v=4?s=100" width="100px;" alt="Loris-Yanis"/><br /><sub><b>Loris-Yanis</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-hooks/commits?author=LorisYanis" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.ianjmacintosh.com"><img src="https://avatars.githubusercontent.com/u/1103259?v=4?s=100" width="100px;" alt="Ian MacIntosh"/><br /><sub><b>Ian MacIntosh</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-hooks/commits?author=ianjmacintosh" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>

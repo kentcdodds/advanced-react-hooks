@@ -78,7 +78,7 @@ const allMessages = [
   `Han: It's worse.`,
   `Luke: There's something alive in here!`,
   `Han: That's your imagination.`,
-  `Luke: Something just moves past my leg! Look! Did you see that?`,
+  `Luke: Something just moved past my leg! Look! Did you see that?`,
   `Han: What?`,
   `Luke: Help!`,
   `Han: Luke! Luke! Luke!`,
